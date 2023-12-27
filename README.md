@@ -16,7 +16,7 @@ The LSTM model architecture consists of multiple LSTM layers followed by fully c
 
 To use the model for action recognition:
 - Upload a video file or an image.
-- Utilize the provided Python script `action_recognition.py`.
+- Utilize the provided Python script `ActionCode.py`.
 - Follow the instructions provided in the script to predict actions in videos or images.
 
 ## Requirements
