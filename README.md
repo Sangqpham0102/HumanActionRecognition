@@ -17,8 +17,11 @@ To use the model for action recognition:
 - Upload a video file or an image.
 - Utilize the provided Python script `ActionCode.py`.
 - Follow the instructions provided in the script to predict actions in videos or images.
-## ## User interface
+## User interface
 Build an interface with pyQt5 for action recognition
+![image](https://github.com/Sangqpham0102/HumanActionRecognition/assets/119334855/12b6a813-6dde-448c-88d3-894d4b02cd17)
+## Video Demo
+[Watch the demo video](https://github.com/Sangqpham0102/HumanActionRecognition/blob/main/output.avi)
 
 ## Requirements
 
