@@ -1,6 +1,5 @@
-# HumanActionRecognition
-Human action recognition model using CNN + LSTM convolutional network
-# Human Action Recognition
+# Human action recognition model using CNN + LSTM convolutional network
+## Human Action Recognition
 
 This repository contains code for human action recognition using deep learning models.
 
@@ -18,6 +17,8 @@ To use the model for action recognition:
 - Upload a video file or an image.
 - Utilize the provided Python script `ActionCode.py`.
 - Follow the instructions provided in the script to predict actions in videos or images.
+## ## User interface
+Build an interface with pyQt5 for action recognition
 
 ## Requirements
 
